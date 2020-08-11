@@ -1,0 +1,27 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/mysql": "^2.15.9",
+    "@types/node": "^13.7.6",
+    "adbkit-apkreader": "^3.1.2",
+    "async": "^2.6.1",
+    "csv-writer": "^1.6.0",
+    "get-json": "^1.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/async": "^3.0.8",
+    "ts-node": "^8.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
