@@ -1,4 +1,4 @@
-# Technical contributions during Ph.D. thesis work (Andreas Biørn-Hansen)
+# Technical contributions derived from PhD thesis work (Andreas Biørn-Hansen)
 
 
 For the bridge experiment, see Github: https://github.com/mobiletechlab/EMSE-D-19-00180-replication-package
